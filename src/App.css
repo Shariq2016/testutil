@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+nav{
+ 
+  color: lawngreen;
+  font-weight: bold;
+}
+ul{
+ display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+li:hover
+{
+  font-weight: lighter;
+  color: #61dafb;
+}
